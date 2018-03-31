@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server::on]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on</tabTrigger>
+	<description>Register a callback function by event name.</description>
+</snippet>
+		

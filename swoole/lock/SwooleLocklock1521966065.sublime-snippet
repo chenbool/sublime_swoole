@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Lock::lock]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Lock::lock</tabTrigger>
+	<description>Try to acquire the lock. It will block if the lock is not available.</description>
+</snippet>
+		

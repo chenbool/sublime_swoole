@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Client::post]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Client::post</tabTrigger>
+	<description>Send POST http request to the remote server.</description>
+</snippet>
+		

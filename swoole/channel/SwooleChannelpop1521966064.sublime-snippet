@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Channel::pop]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Channel::pop</tabTrigger>
+	<description>Read and pop data from swoole channel.</description>
+</snippet>
+		

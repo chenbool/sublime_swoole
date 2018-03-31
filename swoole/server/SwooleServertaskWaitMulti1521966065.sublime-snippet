@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server::taskWaitMulti]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::taskWaitMulti</tabTrigger>
+	<description>Execute multiple tasks concurrently.</description>
+</snippet>
+		

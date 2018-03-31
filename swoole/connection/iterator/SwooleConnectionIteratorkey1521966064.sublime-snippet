@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Connection\Iterator::key]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Connection\Iterator::key</tabTrigger>
+	<description>Return key of the current connection.</description>
+</snippet>
+		

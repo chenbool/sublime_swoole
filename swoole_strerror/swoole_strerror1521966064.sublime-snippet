@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_strerror]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_strerror</tabTrigger>
+	<description>Convert the Errno into error messages</description>
+</snippet>
+		

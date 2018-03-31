@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\MySQL::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\MySQL::__construct</tabTrigger>
+	<description>Construct an async MySQL client.</description>
+</snippet>
+		

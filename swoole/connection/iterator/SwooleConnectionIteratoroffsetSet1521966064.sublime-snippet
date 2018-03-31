@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Connection\Iterator::offsetSet]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Connection\Iterator::offsetSet</tabTrigger>
+	<description>Assign a Connection to the specified offset.</description>
+</snippet>
+		

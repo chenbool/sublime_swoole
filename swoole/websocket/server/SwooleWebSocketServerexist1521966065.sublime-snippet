@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\WebSocket\Server::exist]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\WebSocket\Server::exist</tabTrigger>
+	<description>Check if the the file description is existed.</description>
+</snippet>
+		

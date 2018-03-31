@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Buffer::expand]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Buffer::expand</tabTrigger>
+	<description>Expand the size of memory buffer.</description>
+</snippet>
+		

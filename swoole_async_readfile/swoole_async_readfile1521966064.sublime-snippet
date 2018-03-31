@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_async_readfile]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_async_readfile</tabTrigger>
+	<description>Read a file asynchronously</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_MUTEX]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_MUTEX</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

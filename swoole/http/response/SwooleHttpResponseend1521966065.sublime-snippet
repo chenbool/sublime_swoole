@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Response::end]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Response::end</tabTrigger>
+	<description>Send data for the HTTP request and finish the response.</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Table::valid]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Table::valid</tabTrigger>
+	<description>Check current if the current row is valid.</description>
+</snippet>
+		

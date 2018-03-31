@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\WebSocket\Server::on]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\WebSocket\Server::on</tabTrigger>
+	<description>Register event callback function</description>
+</snippet>
+		

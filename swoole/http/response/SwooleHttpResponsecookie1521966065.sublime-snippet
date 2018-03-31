@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Response::cookie]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Response::cookie</tabTrigger>
+	<description>Set the cookies of the HTTP response.</description>
+</snippet>
+		

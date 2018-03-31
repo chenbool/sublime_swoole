@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Table::current]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Table::current</tabTrigger>
+	<description>Get the current row.</description>
+</snippet>
+		

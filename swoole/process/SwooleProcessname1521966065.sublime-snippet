@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::name]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::name</tabTrigger>
+	<description>Set name of the process.</description>
+</snippet>
+		

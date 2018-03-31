@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Response::header]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Response::header</tabTrigger>
+	<description>Set the HTTP response headers.</description>
+</snippet>
+		

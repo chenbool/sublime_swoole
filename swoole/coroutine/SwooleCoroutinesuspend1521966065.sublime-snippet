@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Coroutine::suspend]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Coroutine::suspend</tabTrigger>
+	<description>Description</description>
+</snippet>
+		

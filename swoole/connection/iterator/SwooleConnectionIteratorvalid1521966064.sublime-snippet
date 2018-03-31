@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Connection\Iterator::valid]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Connection\Iterator::valid</tabTrigger>
+	<description>Check if current position is valid.</description>
+</snippet>
+		

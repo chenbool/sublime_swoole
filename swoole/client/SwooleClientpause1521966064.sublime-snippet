@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::pause]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::pause</tabTrigger>
+	<description>Pause receiving data.</description>
+</snippet>
+		

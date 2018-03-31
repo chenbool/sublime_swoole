@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_AIO_LINUX]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_AIO_LINUX</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

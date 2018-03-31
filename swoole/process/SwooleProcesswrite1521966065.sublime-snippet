@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::write]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::write</tabTrigger>
+	<description>Write data into the pipe and communicate with the parent process or child processes.</description>
+</snippet>
+		

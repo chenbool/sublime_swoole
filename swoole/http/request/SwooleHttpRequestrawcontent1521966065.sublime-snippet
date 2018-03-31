@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Request::rawcontent]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Request::rawcontent</tabTrigger>
+	<description>Get the raw HTTP POST body.</description>
+</snippet>
+		

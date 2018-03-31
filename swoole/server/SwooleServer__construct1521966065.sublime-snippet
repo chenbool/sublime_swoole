@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::__construct</tabTrigger>
+	<description>Construct a Swoole server.</description>
+</snippet>
+		

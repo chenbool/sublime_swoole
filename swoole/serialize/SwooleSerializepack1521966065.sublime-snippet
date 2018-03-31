@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Serialize::pack]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Serialize::pack</tabTrigger>
+	<description>Serialize the data.</description>
+</snippet>
+		

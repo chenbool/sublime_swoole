@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server::connection_list]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::connection_list</tabTrigger>
+	<description>Get all of the established connections.</description>
+</snippet>
+		

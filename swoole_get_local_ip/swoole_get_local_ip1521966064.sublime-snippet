@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_get_local_ip]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_get_local_ip</tabTrigger>
+	<description>Get the IPv4 IP addresses of each NIC on the machine</description>
+</snippet>
+		

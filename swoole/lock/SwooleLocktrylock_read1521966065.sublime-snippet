@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Lock::trylock_read]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Lock::trylock_read</tabTrigger>
+	<description>Try to lock a read-write lock for reading and return straight away even the lock is not available.</description>
+</snippet>
+		

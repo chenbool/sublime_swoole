@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server\Port::set]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server\Port::set</tabTrigger>
+	<description>Set protocol of the server port.</description>
+</snippet>
+		

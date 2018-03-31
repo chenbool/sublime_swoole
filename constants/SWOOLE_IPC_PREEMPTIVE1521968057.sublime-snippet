@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_IPC_PREEMPTIVE]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_IPC_PREEMPTIVE</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Buffer::write]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Buffer::write</tabTrigger>
+	<description>Write data to the memory buffer. The memory allocated for the buffer will not be changed.</description>
+</snippet>
+		

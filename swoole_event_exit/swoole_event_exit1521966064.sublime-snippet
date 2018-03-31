@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_event_exit]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_event_exit</tabTrigger>
+	<description>Exit the eventloop, only available at the client side</description>
+</snippet>
+		

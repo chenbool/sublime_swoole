@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Coroutine\Http\Client::close]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Coroutine\Http\Client::close</tabTrigger>
+	<description>Description</description>
+</snippet>
+		

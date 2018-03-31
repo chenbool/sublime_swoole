@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::sendfile]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::sendfile</tabTrigger>
+	<description>Send file to the remote TCP socket.</description>
+</snippet>
+		

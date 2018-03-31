@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Serialize::unpack]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Serialize::unpack</tabTrigger>
+	<description>Unserialize the data.</description>
+</snippet>
+		

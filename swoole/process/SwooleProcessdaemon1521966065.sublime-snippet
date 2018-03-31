@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::daemon]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::daemon</tabTrigger>
+	<description>Change the process to be a daemon process.</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_TCP6]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_TCP6</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

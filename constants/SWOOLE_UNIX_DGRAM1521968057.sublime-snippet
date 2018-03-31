@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_UNIX_DGRAM]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_UNIX_DGRAM</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

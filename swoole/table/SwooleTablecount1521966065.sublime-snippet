@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Table::count]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Table::count</tabTrigger>
+	<description>Count the rows in the table, or count all the elements in the table if $mode = 1.</description>
+</snippet>
+		

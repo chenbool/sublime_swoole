@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[SWOOLE_SEM]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>SWOOLE_SEM</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

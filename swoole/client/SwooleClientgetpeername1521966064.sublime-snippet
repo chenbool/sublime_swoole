@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::getpeername]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::getpeername</tabTrigger>
+	<description>Get the remote socket name of the connection.</description>
+</snippet>
+		

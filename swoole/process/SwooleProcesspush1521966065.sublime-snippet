@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::push]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::push</tabTrigger>
+	<description>Write and push data into the message queue.</description>
+</snippet>
+		

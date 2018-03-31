@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Channel::stats]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Channel::stats</tabTrigger>
+	<description>Get stats of swoole channel.</description>
+</snippet>
+		

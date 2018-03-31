@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_last_error]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_last_error</tabTrigger>
+	<description>Get the lastest error message</description>
+</snippet>
+		

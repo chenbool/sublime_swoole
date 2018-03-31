@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::wakeup]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::wakeup</tabTrigger>
+	<description>Add the TCP client back into the system event loop.</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::alarm]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::alarm</tabTrigger>
+	<description>High precision timer which triggers signal with fixed interval.</description>
+</snippet>
+		

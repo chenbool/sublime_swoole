@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\MySQL::query]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\MySQL::query</tabTrigger>
+	<description>Run the SQL query.</description>
+</snippet>
+		

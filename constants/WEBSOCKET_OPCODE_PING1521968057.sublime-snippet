@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[WEBSOCKET_OPCODE_PING]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>WEBSOCKET_OPCODE_PING</tabTrigger>
+	<description>integer</description>
+</snippet>
+		

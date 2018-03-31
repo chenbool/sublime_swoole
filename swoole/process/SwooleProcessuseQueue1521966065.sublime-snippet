@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Process::useQueue]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Process::useQueue</tabTrigger>
+	<description>Create a message queue as the communication method between the parent process and child processes.</description>
+</snippet>
+		

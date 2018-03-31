@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Table::column]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Table::column</tabTrigger>
+	<description>Set the data type and size of the columns.</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Redis\Server::setHandler]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Redis\Server::setHandler</tabTrigger>
+	<description>Description</description>
+</snippet>
+		

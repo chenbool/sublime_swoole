@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[swoole_client_select]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>swoole_client_select</tabTrigger>
+	<description>Get the file description which are ready to read/write or error</description>
+</snippet>
+		

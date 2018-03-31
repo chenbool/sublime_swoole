@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Table::incr]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Table::incr</tabTrigger>
+	<description>Increment the value by $row_key and $column_key.</description>
+</snippet>
+		

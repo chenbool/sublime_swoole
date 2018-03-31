@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Buffer::substr]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Buffer::substr</tabTrigger>
+	<description>Read data from the memory buffer based on offset and length. Or remove data from the memory buffer.</description>
+</snippet>
+		

@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::sleep]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::sleep</tabTrigger>
+	<description>Remove the TCP client from system event loop.</description>
+</snippet>
+		

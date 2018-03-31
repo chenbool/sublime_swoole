@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Server::sendwait]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::sendwait</tabTrigger>
+	<description>Send data to the remote socket in the blocking way.</description>
+</snippet>
+		

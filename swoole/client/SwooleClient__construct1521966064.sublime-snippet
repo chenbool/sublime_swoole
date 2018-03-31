@@ -1,0 +1,7 @@
+<snippet>
+	<content><![CDATA[Swoole\Client::__construct]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Client::__construct</tabTrigger>
+	<description>Create Swoole sync or async TCP/UDP client, with or without SSL.</description>
+</snippet>
+		
