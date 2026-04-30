@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('workerStart', function (Swoole\Server $server, int $worker_id) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::workerStart</tabTrigger>
+	<description>Worker start event callback</description>
+</snippet>

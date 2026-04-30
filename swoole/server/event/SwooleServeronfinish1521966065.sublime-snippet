@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('finish', function (Swoole\Server $server, int $task_id, string $data) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::finish</tabTrigger>
+	<description>Task finish event callback</description>
+</snippet>

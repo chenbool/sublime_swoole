@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('managerStop', function (Swoole\Server $server) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::managerStop</tabTrigger>
+	<description>Manager process stop event callback</description>
+</snippet>

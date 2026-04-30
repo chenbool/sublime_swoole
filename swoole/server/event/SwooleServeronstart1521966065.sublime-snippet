@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('start', function (Swoole\Server $server) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::start</tabTrigger>
+	<description>Server start event callback</description>
+</snippet>

@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[go(function () {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>go</tabTrigger>
+	<description>Create a coroutine</description>
+</snippet>

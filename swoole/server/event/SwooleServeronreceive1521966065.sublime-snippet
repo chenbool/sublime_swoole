@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('receive', function (Swoole\Server $server, int $fd, int $reactor_id, string $data) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::receive</tabTrigger>
+	<description>Receive data event callback</description>
+</snippet>

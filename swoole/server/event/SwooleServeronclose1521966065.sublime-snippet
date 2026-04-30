@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('close', function (Swoole\Server $server, int $fd) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::close</tabTrigger>
+	<description>Client close event callback</description>
+</snippet>

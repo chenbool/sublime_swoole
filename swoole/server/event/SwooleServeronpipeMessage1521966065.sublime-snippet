@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('pipeMessage', function (Swoole\Server $server, int $from_worker_id, string $message) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::pipeMessage</tabTrigger>
+	<description>Pipe message event callback</description>
+</snippet>

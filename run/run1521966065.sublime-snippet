@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[run(function () {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>run</tabTrigger>
+	<description>Run coroutine (Swoole 4.0+)</description>
+</snippet>

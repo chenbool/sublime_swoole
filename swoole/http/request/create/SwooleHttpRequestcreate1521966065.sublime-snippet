@@ -1,0 +1,6 @@
+<snippet>
+	<content><![CDATA[Swoole\Http\Request::create]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Http\Request::create</tabTrigger>
+	<description>Create an HTTP request object (Swoole 4.6+)</description>
+</snippet>

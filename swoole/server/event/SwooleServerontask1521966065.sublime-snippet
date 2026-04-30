@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('task', function (Swoole\Server $server, int $task_id, int $reactor_id, string $data) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::task</tabTrigger>
+	<description>Task event callback</description>
+</snippet>

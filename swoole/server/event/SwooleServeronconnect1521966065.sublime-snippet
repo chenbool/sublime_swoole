@@ -1,0 +1,8 @@
+<snippet>
+	<content><![CDATA[Server->on('connect', function (Swoole\Server $server, int $fd) {
+	
+});]]></content>
+	<scope>source.php</scope>
+	<tabTrigger>Swoole\Server::on::connect</tabTrigger>
+	<description>Client connect event callback</description>
+</snippet>
