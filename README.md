@@ -46,5 +46,14 @@ Mac 用户：
 
 ## 其他插件
 
-- [sublime_yaf](https://github.com/bool1993/sublime_yaf) - Yaf 代码片段
-- [sublime_thinkphp5](https://github.com/bool1993/sublime_thinkphp5) - ThinkPHP5 代码片段
+| 项目 | 仓库地址 |
+|------|----------|
+| sublime_swoole | https://github.com/chenbool/sublime_swoole |
+| sublime_yaf | https://github.com/chenbool/sublime_yaf |
+| sublime_thinkphp5 | https://github.com/chenbool/sublime_thinkphp5 |
+| sublime_thinkphp6 | https://github.com/chenbool/sublime_thinkphp6 |
+| sublime_thinkphp8 | https://github.com/chenbool/sublime_thinkphp8 |
+| sublime_laravel | https://github.com/chenbool/sublime_laravel |
+| sublime_workerman | https://github.com/chenbool/sublime_workerman |
+| sublime_webman | https://github.com/chenbool/sublime_webman |
+| sublime_fastadmin | https://github.com/chenbool/sublime_fastadmin |
